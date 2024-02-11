@@ -1,2 +1,0 @@
-# devachatu.github.io
-
