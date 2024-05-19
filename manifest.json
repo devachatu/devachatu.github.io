@@ -1,6 +1,6 @@
 {
-    "name": "awakened_alley_web",
-    "short_name": "awakened_alley_web",
+    "name": "viridis_web",
+    "short_name": "viridis_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
